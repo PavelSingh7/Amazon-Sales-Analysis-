@@ -5,3 +5,5 @@ A Machine Learning Model has also been trained for Customeer Segmentation so tha
 ## Amazon Sales is analysed by  Tableau Visualizations.
 
 ## K-Means Clustering has been used for Customer Segmentation.
+
+# For Entire project details Check the Amazon Sales Report file above.
